@@ -7,7 +7,7 @@ To deploy this project run
 
 ```bash
   npm i request-axios-fozilkhon
-  import request from 'request-axios-uzb'
+  import request from 'request-axios-fozilkhon'
 ```
 
 ## Use generic axios
