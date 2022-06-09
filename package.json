@@ -1,0 +1,23 @@
+{
+  "name": "request-axios-uzb",
+  "version": "1.0.0",
+  "description": "this is generic axios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/BFozilkhon/Request-generic.git)"
+  },
+  "keywords": [
+    "axios",
+    "generic",
+    "request"
+  ],
+  "author": "Fozilkhon Buzrukxojayev",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
