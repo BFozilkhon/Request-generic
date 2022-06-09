@@ -1,6 +1,6 @@
 {
   "name": "request-axios-fozilkhon",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "this is generic axios",
   "main": "index.js",
   "scripts": {
